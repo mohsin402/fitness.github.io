@@ -1,0 +1,25 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 92vh;
+    background-position: center;
+}
+.aboutimg{
+    height: 250px!important;
+    width: 100%;
+}
+.serimg{
+    height: 200px!important;
+    background-position: center;
+
+}
+.gelimg{
+    height: 337px!important;
+    
+}
+.jimg{
+    height: 337px!important;
+    
+}
